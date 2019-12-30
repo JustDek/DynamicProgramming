@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{01D2FF91-E55A-4E25-A097-EBD643DD11A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D2FF91-E55A-4E25-A097-EBD643DD11A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D2FF91-E55A-4E25-A097-EBD643DD11A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D2FF91-E55A-4E25-A097-EBD643DD11A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D2FF91-E55A-4E25-A097-EBD643DD11A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7E20CE-093E-48BC-B2DE-135980783BDB}
+	EndGlobalSection
+EndGlobal
