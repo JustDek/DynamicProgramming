@@ -1,4 +1,5 @@
 ﻿using System;
+using DynamicProgramming.Backtracking;
 
 namespace DynamicProgramming
 {
@@ -6,9 +7,8 @@ namespace DynamicProgramming
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(UglyNumbers.GetNthNumber(150));
-            Console.WriteLine(CatalanNumbers.GetCatalanNumber(9));
-            Console.WriteLine(CoinChange.MinimumCoinsToChange(new int[] { 1, 2, 5 }, 50));
+            NQueensProblem qn = new NQueensProblem();
+            qn.QNSolution(10);
         }
     }
 }
